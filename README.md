@@ -2,6 +2,7 @@
 https://www.dicoding.com/academies/342/discussions/371977?#comment-1869472
 
 ### Log Error Reviewer
+```
 node:internal/modules/cjs/loader:1143
   throw err;
   ^
@@ -17,8 +18,10 @@ Error: Cannot find module '/home/assistest/student-app/src/server.js'
  
  
 Node.js v18.20.2
+```
 
 ### Log Error Project without node_modules included 
+```
 PS C:\javascript-projects\mrafiw2> npm run start
 > mrafiw2@1.0.0 start
 > node src/server.js
@@ -42,3 +45,4 @@ Require stack:
   requireStack: [ 'C:\\javascript-projects\\mrafiw2\\src\\server.js' ]
 }
 Node.js v18.20.2
+```
