@@ -1,7 +1,7 @@
 # Error Submission HAPI framework Dicoding - Proyek Bookshelf API
 https://www.dicoding.com/academies/342/discussions/371977?#comment-1869472
 
-### Log Error Reviewer
+### Log Error Reviewer Dicoding
 ```
 node:internal/modules/cjs/loader:1143
   throw err;
@@ -19,6 +19,8 @@ Error: Cannot find module '/home/assistest/student-app/src/server.js'
  
 Node.js v18.20.2
 ```
+### Log Error Reviwer Dicoding #2
+![image](https://github.com/MrafW/bookshelf-API/assets/152492986/35d4b88c-f331-477f-bba1-57a70685aa14)
 
 ### Log Error Project without node_modules included 
 ```
