@@ -2,23 +2,8 @@
 https://www.dicoding.com/academies/342/discussions/371977?#comment-1869472
 
 ### Log Error Reviewer Dicoding
-```
-node:internal/modules/cjs/loader:1143
-  throw err;
-  ^
- 
-Error: Cannot find module '/home/assistest/student-app/src/server.js'
-    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
-    at Module._load (node:internal/modules/cjs/loader:981:27)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
-    at node:internal/main/run_main_module:28:49 {
-  code: 'MODULE_NOT_FOUND',
-  requireStack: []
-}
- 
- 
-Node.js v18.20.2
-```
+![image](https://github.com/MrafW/bookshelf-API/assets/152492986/52d06b54-9939-4608-8acc-221c6901a36c)
+
 ### Log Error Reviwer Dicoding #2
 ![image](https://github.com/MrafW/bookshelf-API/assets/152492986/35d4b88c-f331-477f-bba1-57a70685aa14)
 
