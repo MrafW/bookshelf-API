@@ -1,4 +1,4 @@
-# Error Submission HAPI framework Dicoding - Proyek Bookshelf API
+# Error Submission HAPI framework Dicoding - Proyek Bookshelf API (SOLVED) 
 https://www.dicoding.com/academies/342/discussions/371977?#comment-1869472
 
 ### Log Error Reviewer Dicoding
